@@ -1,0 +1,7 @@
+# installed by rodar.sh inside the app container
+node_modules/
+# produced by a run: outputs, recordings and numbers
+saidas/
+gravacoes/
+resultados.json
+.DS_Store
